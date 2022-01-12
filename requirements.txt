@@ -1,5 +1,4 @@
 nbgitpuller
 qrcode
-os
 matplotlib
 numpy
